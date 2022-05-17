@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ilyass Hattal</h1>
 <h3 align="center">A Passionate Software Engineer from Boston</h3>
 <img align= "right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-![Ilyass's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyasshattal&show_icons=true&theme=radical)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyasshattal&label=Profile%20views&color=0e75b6&style=flat" alt="ilyasshattal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ilyasshattaldev" target="blank"><img src="https://img.shields.io/twitter/follow/ilyasshattaldev?logo=twitter&style=for-the-badge" alt="ilyasshattaldev" /></a> </p>
