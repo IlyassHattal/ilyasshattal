@@ -1,5 +1,5 @@
 
-<p align="center"> <img width="50%" height="500px"  src="https://user-images.githubusercontent.com/101954954/168871280-84669de4-3120-42cc-8cf0-7a109065472d.png"> </p>
+<p align="center"> <img width="50%" height="400px"  src="https://user-images.githubusercontent.com/101954954/168871280-84669de4-3120-42cc-8cf0-7a109065472d.png"> </p>
 <h1 align="center">Hello World<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ilyass</h1>
 <h3 align="center">I'm a Full Stack Software Engineer ~ Based out of Boston,MA</h3>
 <h5 align="center">Afro-Arab~ All Things Coding~ Lover of All Foods</h5>
